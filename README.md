@@ -41,6 +41,3 @@ score INT,
 total INT
 );
 ```
-
-## Author
-Talla Sahasra
