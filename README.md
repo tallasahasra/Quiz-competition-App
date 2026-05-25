@@ -45,27 +45,9 @@ total INT
 );
 ```
 
-## Screenshots
 
-Add screenshots of:
 
-- Name Input Screen
-- Difficulty Selection Screen
-- Quiz Screen
-- Result Screen
-- Leaderboard (Optional)
 
-## Folder Structure
-
-```text
-QuizApp
-│
-├── QuizApp.java
-├── README.md
-├── screenshots
-├── Certificate.txt
-└── lib
-```
 
 
 
